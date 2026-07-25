@@ -1,0 +1,80 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.48.98.247
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1785013787192
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1785014341265
+  login: 1785014053604
+money: '0'
+last-account-name: 3LY_MGL
+lastlocation:
+  world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+  world-name: world
+  x: 2253.300000011921
+  y: 189.0
+  z: -2766.6549375033464
+  yaw: -73.79906463623047
+  pitch: 47.10798645019531
+homes:
+  base:
+    world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+    world-name: world
+    x: 1693.0522664206478
+    y: 65.0
+    z: -3257.6966616696623
+    yaw: 47.102603912353516
+    pitch: 24.58896827697754
+  farm:
+    world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+    world-name: world
+    x: 2253.907011193661
+    y: 190.5
+    z: -2765.652281718926
+    yaw: -103.5861587524414
+    pitch: -5.482693195343018
+  enderman:
+    world: 5f440770-0855-4e18-9510-a3a272fe60d4
+    world-name: world_the_end
+    x: 245.1097044981776
+    y: 1.0
+    z: -21.624163106717674
+    yaw: 142.4349822998047
+    pitch: 14.051783561706543
+  portail:
+    world: 1ecd6678-6bb5-4d9b-a8c4-96e39ab88f6f
+    world-name: world_nether
+    x: 640.8373036009949
+    y: 95.0
+    z: -1099.0401499837947
+    yaw: -41.00625228881836
+    pitch: 25.277952194213867
+  baze:
+    world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+    world-name: world
+    x: 5030.475428252377
+    y: 93.0
+    z: -8816.598831513158
+    yaw: -79.36541748046875
+    pitch: 70.47157287597656
+logoutlocation:
+  world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+  world-name: world
+  x: 4920.3949684035815
+  y: 65.0
+  z: -8806.260806428943
+  yaw: 150.75604248046875
+  pitch: 36.9817008972168

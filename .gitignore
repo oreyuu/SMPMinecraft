@@ -1,0 +1,22 @@
+# Monde Minecraft (très lourd)
+world/
+world_nether/
+world_the_end/
+
+# Logs
+logs/
+
+# Fichiers générés
+cache/
+versions/
+libraries/
+
+# Sauvegardes locales
+backups/
+
+# Fichiers temporaires
+*.tmp
+*.log
+
+# Propriétés sensibles
+server-icon.png

@@ -1,0 +1,104 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 192.168.2.147
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1785007934375
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1785014057167
+  login: 1785014055531
+money: '0'
+last-account-name: Oreyuu
+homes:
+  base:
+    world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+    world-name: world
+    x: -103.58848628153599
+    y: 82.0
+    z: -1866.2730346781282
+    yaw: 39.92982864379883
+    pitch: 13.150699615478516
+  baserus:
+    world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+    world-name: world
+    x: 1691.9674251799463
+    y: 65.0
+    z: -3255.6185409083746
+    yaw: 117.87838745117188
+    pitch: 23.70015525817871
+  creeper:
+    world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+    world-name: world
+    x: 2253.6584905813984
+    y: 191.0
+    z: -2763.817494784828
+    yaw: -168.99822998046875
+    pitch: 53.51137924194336
+  netherit:
+    world: 1ecd6678-6bb5-4d9b-a8c4-96e39ab88f6f
+    world-name: world_nether
+    x: -119.30479268129281
+    y: 12.0
+    z: -126.48022324603785
+    yaw: 74.38398742675781
+    pitch: 11.313244819641113
+  end:
+    world: 5f440770-0855-4e18-9510-a3a272fe60d4
+    world-name: world_the_end
+    x: 245.29224871173227
+    y: 1.0
+    z: -23.673137383643848
+    yaw: -22.605743408203125
+    pitch: 67.35508728027344
+  ocean:
+    world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+    world-name: world
+    x: -2511.300000011921
+    y: 69.0
+    z: -1696.5275995065597
+    yaw: 56.798828125
+    pitch: 19.65094757080078
+  grotte:
+    world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+    world-name: world
+    x: -1059.5609618064761
+    y: -44.65555733087131
+    z: -4834.829476259522
+    yaw: -179.4798583984375
+    pitch: 4.477546215057373
+  grottelava:
+    world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+    world-name: world
+    x: -856.6682879149024
+    y: -48.84463550740446
+    z: -5010.3020643292875
+    yaw: -121.84625244140625
+    pitch: 7.650120735168457
+lastlocation:
+  world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+  world-name: world
+  x: -1759.1745451906193
+  y: 45.32324599833311
+  z: -2004.5194098683598
+  yaw: 37.0072021484375
+  pitch: 10.725964546203613
+logoutlocation:
+  world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+  world-name: world
+  x: -99.00123100938794
+  y: 76.0
+  z: -1863.2193667694335
+  yaw: 54.9339599609375
+  pitch: 10.06415843963623

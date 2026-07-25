@@ -1,0 +1,96 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.60.196.63
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1785014027584
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1785014344913
+  login: 1785014062332
+money: '0'
+last-account-name: Russrex_59
+homes:
+  home:
+    world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+    world-name: world
+    x: 1693.859017098165
+    y: 65.0
+    z: -3255.673234971436
+    yaw: -129.99464416503906
+    pitch: 8.999728202819824
+  c:
+    world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+    world-name: world
+    x: 2253.5
+    y: 191.0
+    z: -2763.5
+    yaw: -117.26718139648438
+    pitch: 7.050196170806885
+  grrrrr:
+    world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+    world-name: world
+    x: 2259.021291451395
+    y: 250.0
+    z: -2764.7571548694655
+    yaw: 85.39581298828125
+    pitch: -22.799949645996094
+  enderman:
+    world: 5f440770-0855-4e18-9510-a3a272fe60d4
+    world-name: world_the_end
+    x: 242.31784011319854
+    y: 1.0
+    z: -19.371983297579263
+    yaw: -30.600433349609375
+    pitch: 11.850006103515625
+  trial_0:
+    world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+    world-name: world
+    x: 70.48677040179003
+    y: -10.0
+    z: -986.6999999880791
+    yaw: 34.643096923828125
+    pitch: 20.957448959350586
+  base_2:
+    world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+    world-name: world
+    x: 5017.678907013362
+    y: 92.0
+    z: -8819.130944281978
+    yaw: -19.9561767578125
+    pitch: 12.750082015991211
+  mine:
+    world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+    world-name: world
+    x: 5011.805351357307
+    y: -48.0
+    z: -8869.770710003027
+    yaw: 165.5989227294922
+    pitch: 1.9500194787979126
+lastlocation:
+  world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+  world-name: world
+  x: 5038.300000011921
+  y: 77.0
+  z: -8813.507275473603
+  yaw: -88.05740356445312
+  pitch: 6.7499799728393555
+logoutlocation:
+  world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+  world-name: world
+  x: 5057.780892864577
+  y: 78.0
+  z: -8807.04388951291
+  yaw: 71.2445068359375
+  pitch: 14.850065231323242

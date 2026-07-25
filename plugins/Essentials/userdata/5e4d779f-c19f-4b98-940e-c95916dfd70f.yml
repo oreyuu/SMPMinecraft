@@ -1,0 +1,152 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.118.181.199
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1785007686787
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1785009363873
+  login: 1785008933412
+money: '0'
+last-account-name: 0reyuu
+logoutlocation:
+  world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+  world-name: world
+  x: -110.70062690013302
+  y: 54.0
+  z: -1854.7551084138001
+  yaw: 148.42578125
+  pitch: 9.02263355255127
+lastlocation:
+  world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+  world-name: world
+  x: -771.3000000119209
+  y: -50.0
+  z: -5013.300000011921
+  yaw: 98.242919921875
+  pitch: 0.8759174346923828
+homes:
+  home:
+    world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+    world-name: world
+    x: -112.64601611034273
+    y: 84.0
+    z: -1872.7754028744523
+    yaw: -34.142173767089844
+    pitch: 23.076190948486328
+  nether:
+    world: 1ecd6678-6bb5-4d9b-a8c4-96e39ab88f6f
+    world-name: world_nether
+    x: -8.699999988079071
+    y: 90.0
+    z: -229.30000001192093
+    yaw: 104.07061767578125
+    pitch: 28.41427993774414
+  end:
+    world: 5f440770-0855-4e18-9510-a3a272fe60d4
+    world-name: world_the_end
+    x: 3.8980517337511906
+    y: 60.0
+    z: 2.5996103807477122
+    yaw: 103.01541137695312
+    pitch: 19.11404037475586
+  portailend:
+    world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+    world-name: world
+    x: -27.329041813188855
+    y: -27.0
+    z: -2123.5908330990555
+    yaw: 12.385624885559082
+    pitch: 37.27301025390625
+  base:
+    world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+    world-name: world
+    x: -105.0262193588678
+    y: 82.0
+    z: -1866.597514352297
+    yaw: -29.5902099609375
+    pitch: 25.166040420532227
+  pnj:
+    world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+    world-name: world
+    x: 1688.6350081314226
+    y: 65.0
+    z: -3257.524141128346
+    yaw: -178.298095703125
+    pitch: 15.787744522094727
+  bastion:
+    world: 1ecd6678-6bb5-4d9b-a8c4-96e39ab88f6f
+    world-name: world_nether
+    x: 595.3960365815179
+    y: 75.0
+    z: -1139.4467946903933
+    yaw: 2.873291015625
+    pitch: 24.220932006835938
+  enderman:
+    world: 5f440770-0855-4e18-9510-a3a272fe60d4
+    world-name: world_the_end
+    x: 243.12515133082334
+    y: 1.0
+    z: -15.594997305158486
+    yaw: -146.87286376953125
+    pitch: 2.578536033630371
+  ocean:
+    world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+    world-name: world
+    x: -1217.479211883624
+    y: 63.0
+    z: -206.600004613303
+    yaw: -177.6582794189453
+    pitch: 80.63704681396484
+  bite:
+    world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+    world-name: world
+    x: -1225.2614966468545
+    y: 64.0
+    z: -9.915246535301925
+    yaw: 175.8431396484375
+    pitch: 13.642583847045898
+  tower:
+    world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+    world-name: world
+    x: 2253.503985021131
+    y: 188.0
+    z: -2766.699999988079
+    yaw: -77.63721466064453
+    pitch: 31.81134033203125
+  glace:
+    world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+    world-name: world
+    x: -3.154383294356155
+    y: 63.0
+    z: -3454.375403208545
+    yaw: -174.48106384277344
+    pitch: 20.329845428466797
+  araign_e:
+    world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+    world-name: world
+    x: -912.4887425903936
+    y: -38.0
+    z: -5193.668195672768
+    yaw: -55.855224609375
+    pitch: 13.592937469482422
+  grotte:
+    world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+    world-name: world
+    x: -771.3000000119209
+    y: -50.0
+    z: -5013.300000011921
+    yaw: 98.242919921875
+    pitch: 0.8759174346923828

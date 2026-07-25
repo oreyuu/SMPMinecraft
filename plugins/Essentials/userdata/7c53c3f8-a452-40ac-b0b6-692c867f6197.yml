@@ -1,0 +1,56 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.174.24.212
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1784800444775
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1784966705467
+  login: 1784965464207
+money: '0'
+last-account-name: NiftyFalcoln
+lastlocation:
+  world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+  world-name: world
+  x: -1987.7597167916635
+  y: 17.0
+  z: -1956.504459405043
+  yaw: -89.102294921875
+  pitch: 30.150175094604492
+homes:
+  base:
+    world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+    world-name: world
+    x: -1816.3036164114812
+    y: 78.0
+    z: -2015.7660147015924
+    yaw: 142.66221618652344
+    pitch: 10.050013542175293
+  geode:
+    world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+    world-name: world
+    x: -1857.1641536401942
+    y: -46.0
+    z: -1756.2324937082544
+    yaw: -40.6173095703125
+    pitch: 9.600322723388672
+logoutlocation:
+  world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+  world-name: world
+  x: -1817.7877084159816
+  y: 78.0
+  z: -2014.6986155417399
+  yaw: -95.3031005859375
+  pitch: 15.742049217224121

@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.168.201.154
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1784990238137
+  login: 1784990153811
+money: '0'
+last-account-name: Fomaza
+lastlocation:
+  world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+  world-name: world
+  x: -108.5
+  y: 102.0
+  z: -54.5
+  yaw: -88.79119873046875
+  pitch: 0.0
+logoutlocation:
+  world: dcbaecae-8ca9-40d0-8ea9-623a4bab9868
+  world-name: world
+  x: -156.86152386196954
+  y: 79.25220334025373
+  z: -45.77746548124147
+  yaw: 115.38247680664062
+  pitch: 6.449887752532959
